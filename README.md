@@ -20,7 +20,7 @@
 - Standard Deviation: 4.80%
 - Sharpe Ratio: 0.293
 
-![Buy/Sell Signal](AAPL_stock_price.png)
+![Buy/Sell Signal using momentum](AAPL_stock_price.png)
 
 A Python-based quantitative finance toolkit for portfolio optimization and analysis.
 
@@ -28,6 +28,7 @@ A Python-based quantitative finance toolkit for portfolio optimization and analy
 - Efficient frontier calculation and visualization
 - Risk-return optimization
 - Portfolio rebalancing tools
+- Find safer stocks for bear market
 
 ## Getting Started
 Check the documentation to begin optimizing your investment portfolio using advanced quantitative methods.
