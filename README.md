@@ -22,13 +22,15 @@
 
 ![Buy/Sell Signal using momentum](figures/AAPL_stock_price.png)
 
-A Python-based quantitative finance toolkit for portfolio optimization and analysis.
+# A Python-based quantitative finance toolkit for portfolio optimization and analysis.
 
 ## Features
-- Efficient frontier calculation and visualization
-- Risk-return optimization
-- Portfolio rebalancing tools
-- Find safer stocks for bear market
+- Efficient frontier calculation and visualization : [portfolio_rebalance](portfolio_rebalance.ipynb)
+- Risk-return optimization: [portfolio_rebalance](portfolio_rebalance.ipynb)
+- Portfolio rebalancing tools: [portfolio_rebalance](portfolio_rebalance.ipynb)
+- Find safer stocks for bear market: [find_safer_stocks_for_bear_market](find_safer_stocks_for_bear_market.ipynb)]
+- Buy/Sell signals based on momentum (moving average): [buy_sell_signals](buy_sell_signals.ipynb)
+- Find best stocks for value investing: [find_value_stocks](find_value_stocks.ipynb)
 
 ## Getting Started
 Check the documentation to begin optimizing your investment portfolio using advanced quantitative methods.
