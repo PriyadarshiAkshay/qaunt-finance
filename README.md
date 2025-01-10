@@ -1,6 +1,6 @@
 # Quant Finance Portfolio Optimization
 
-![Efficient Frontier](efficient_frontier.png)
+![Efficient Frontier](figures/efficient_frontier.png)
 
 ## Maximum Return Portfolio (with σ ≤ S&P500)
 
@@ -20,7 +20,7 @@
 - Standard Deviation: 4.80%
 - Sharpe Ratio: 0.293
 
-![Buy/Sell Signal using momentum](AAPL_stock_price.png)
+![Buy/Sell Signal using momentum](figures/AAPL_stock_price.png)
 
 A Python-based quantitative finance toolkit for portfolio optimization and analysis.
 
