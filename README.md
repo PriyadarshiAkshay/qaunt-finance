@@ -22,6 +22,7 @@
 
 ![Buy/Sell Signal using momentum](figures/AAPL_stock_price.png)
 
+![Bollinger Bands](figures/bollinger_bands.png)
 # A Python-based quantitative finance toolkit for portfolio optimization and analysis.
 
 ## Features
@@ -31,6 +32,7 @@
 - Find safer stocks for bear market: [find_safer_stocks_for_bear_market](find_safer_stocks_for_bear_market.ipynb)]
 - Buy/Sell signals based on momentum (moving average): [buy_sell_signals](buy_sell_signals.ipynb)
 - Find best stocks for value investing: [find_value_stocks](find_value_stocks.ipynb)
+- Use Bollinger Bands for optimum trading strategy: [bollinger_bands](bollinger_bands.ipynb)
 
 ## Getting Started
 Check the documentation to begin optimizing your investment portfolio using advanced quantitative methods.
