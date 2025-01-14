@@ -23,6 +23,8 @@
 ![Buy/Sell Signal using momentum](figures/AAPL_stock_price.png)
 
 ![Bollinger Bands](figures/bollinger_bands.png)
+![Keltner Channels](figures/keltner_channels.png)
+
 # A Python-based quantitative finance toolkit for portfolio optimization and analysis.
 
 ## Features
