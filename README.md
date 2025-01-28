@@ -20,14 +20,6 @@
 - Standard Deviation: 4.80%
 - Sharpe Ratio: 0.293
 
-![Buy/Sell Signal using momentum](figures/AAPL_stock_price.png)
-
-![Bollinger Bands](figures/bollinger_bands.png)
-
-![Keltner Channels](figures/keltner_channels.png)
-
-![Monte Carlo Simulation](figures/monte_carlo_simulation.png)
-
 # A Python-based quantitative finance toolkit for portfolio optimization and analysis.
 
 ## Features
@@ -36,9 +28,15 @@
 - Portfolio rebalancing tools: [portfolio_rebalance](portfolio_rebalance.ipynb)
 - Find safer stocks for bear market: [find_safer_stocks_for_bear_market](find_safer_stocks_for_bear_market.ipynb)]
 - Buy/Sell signals based on momentum (moving average): [buy_sell_signals](buy_sell_signals.ipynb)
+![Buy/Sell Signal using momentum](figures/AAPL_stock_price.png)
+
 - Find best stocks for value investing: [find_value_stocks](find_value_stocks.ipynb)
 - Use Bollinger Bands/Keltner Channels for optimum trading strategy: [bollinger_bands](bollinger_bands.ipynb)
+![Bollinger Bands](figures/bollinger_bands.png)
+![Keltner Channels](figures/keltner_channels.png)
+
 - Generate Monte Carlo simulation and calculate Value at Risk (VaR): [monte_carlo_simulation](monte_carlo_simulation.ipynb)
+![Monte Carlo Simulation](figures/monte_carlo_simulation.png)
 
 ## Getting Started
 Check the documentation to begin optimizing your investment portfolio using advanced quantitative methods.
