@@ -26,6 +26,8 @@
 
 ![Keltner Channels](figures/keltner_channels.png)
 
+![Monte Carlo Simulation](figures/monte_carlo_simulation.png)
+
 # A Python-based quantitative finance toolkit for portfolio optimization and analysis.
 
 ## Features
@@ -36,6 +38,7 @@
 - Buy/Sell signals based on momentum (moving average): [buy_sell_signals](buy_sell_signals.ipynb)
 - Find best stocks for value investing: [find_value_stocks](find_value_stocks.ipynb)
 - Use Bollinger Bands/Keltner Channels for optimum trading strategy: [bollinger_bands](bollinger_bands.ipynb)
+- Generate Monte Carlo simulation and calculate Value at Risk (VaR): [monte_carlo_simulation](monte_carlo_simulation.ipynb)
 
 ## Getting Started
 Check the documentation to begin optimizing your investment portfolio using advanced quantitative methods.
