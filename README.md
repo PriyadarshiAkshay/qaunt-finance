@@ -2,7 +2,7 @@
 
 ## Features
 - Find and optimise Buy/Sell signals based on momentum (moving average): [buy_sell_signals](buy_sell_signals.ipynb)
-![Buy/Sell Signal using momentum](figures/JNJ_portfolio_perfomance.png)
+![Buy/Sell Signal using momentum](figures/JNJ_portfolio_performance.png)
 
 - Efficient frontier calculation and visualization : [portfolio_rebalance](portfolio_rebalance.ipynb)
 ![Efficient Frontier](figures/efficient_frontier.png)
