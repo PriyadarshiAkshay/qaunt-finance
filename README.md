@@ -4,11 +4,9 @@
 - Find and optimise Buy/Sell signals based on momentum (moving average): [buy_sell_signals](buy_sell_signals.ipynb)
 ![Buy/Sell Signal using momentum](figures/JNJ_portfolio_performance.png)
 
-- Efficient frontier calculation and visualization : [portfolio_rebalance](portfolio_rebalance.ipynb)
+- Efficient frontier calculation and visualization, Risk-return optimization, portfolio rebalancing tools : [portfolio_rebalance](portfolio_rebalance.ipynb)
 ![Efficient Frontier](figures/efficient_frontier.png)
 
-- Risk-return optimization: [portfolio_rebalance](portfolio_rebalance.ipynb)
-- Portfolio rebalancing tools: [portfolio_rebalance](portfolio_rebalance.ipynb)
 - Find safer stocks for bear market: [find_safer_stocks_for_bear_market](find_safer_stocks_for_bear_market.ipynb)]
 
 - Find best stocks for value investing: [find_value_stocks](find_value_stocks.ipynb)
