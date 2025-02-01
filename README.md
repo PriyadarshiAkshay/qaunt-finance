@@ -15,7 +15,7 @@
 ![Keltner Channels](figures/keltner_channels.png)
 
 - Generate Monte Carlo simulation and calculate Value at Risk (VaR): [monte_carlo_simulation](monte_carlo_simulation.ipynb)
-![Monte Carlo Simulation](figures/monte_carlo_simulation.png)
+![Markov Chain Monte Carlo Simulation](figures/monte_carlo_simulation.png)
 
 ## Getting Started
 Check the documentation to begin optimizing your investment portfolio using advanced quantitative methods.
