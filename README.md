@@ -4,6 +4,8 @@
 - Find and optimise Buy/Sell signals based on momentum (moving average): [buy_sell_signals](buy_sell_signals.ipynb)
 ![Buy/Sell Signal using momentum](figures/^GSPC_portfolio_performance.png)
 
+- Find Call/Put prices of options using Alpaca-API and Black-Scholes-Merton model: [options_pricing](option_pricing.ipynb)
+
 - Efficient frontier calculation and visualization, Risk-return optimization, portfolio rebalancing tools : [portfolio_rebalance](portfolio_rebalance.ipynb)
 ![Efficient Frontier](figures/efficient_frontier.png)
 
